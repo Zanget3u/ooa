@@ -1,0 +1,6 @@
+Praktikum 5:
+
+-> DOT-Notationsfunktion in DiGraph-Funktion umwandeln (X)
+-> Priorityqueue mit Templates implementieren und inkludieren (X)
+-> Dijkstra-Algorithmus implementieren (in eine DiGraphfunktion) (X)
+-> DOT-Notationsfunktion abändern um Kanten und Knoten hervorzuheben (X)

@@ -1,0 +1,12 @@
+# Alle Knoten
++ Krefeld
++ Koeln
++ Wuppertal
++ Moenchengladbach
+# Alle Kanten
+- Koeln Krefeld 60
+- Wuppertal Koeln 50
+- Koeln Koeln 180
+- Koeln Moenchengladbach 45
+- Moenchengladbach Krefeld 30
+ende

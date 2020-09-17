@@ -1,0 +1,6 @@
+# Alle Knoten
++ Krefeld
++ Koeln
+# Alle Kanten
+- Krefeld Koeln 30
+ende

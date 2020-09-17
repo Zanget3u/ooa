@@ -1,0 +1,9 @@
+# Alle Knoten
++ Krefeld
++ Koeln
++ Wuppertal
+# Alle Kanten
+- Koeln Krefeld 60
+- Wuppertal Koeln 50
+- Koeln Koeln 180
+ende

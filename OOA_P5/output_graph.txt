@@ -1,0 +1,24 @@
+# Alle Knoten
++ Krefeld
++ Koeln
++ Wuppertal
++ Hamburg
++ Berlin
++ Leipzig
++ Stuttgart
++ Muenchen
+# Alle Kanten
+- Krefeld Koeln 50
+- Krefeld Wuppertal 40
+- Krefeld Hamburg 260
+- Koeln Stuttgart 240
+- Koeln Wuppertal 50
+- Wuppertal Hamburg 230
+- Hamburg Leipzig 240
+- Hamburg Berlin 210
+- Hamburg Muenchen 410
+- Stuttgart Muenchen 140
+- Stuttgart Berlin 420
+- Muenchen Berlin 430
+- Muenchen Leipzig 270
+ende
